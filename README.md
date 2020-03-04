@@ -1,5 +1,15 @@
-# CoolQ C++ SDK 项目模板
+# hephaestus-bot
 
-[![Build Status](https://img.shields.io/appveyor/ci/richardchien/cqcppsdk-template.svg)](https://ci.appveyor.com/project/richardchien/cqcppsdk-template)
+基于 [CoolQ C++ SDK](https://github.com/cqmoe/cqcppsdk) 的QQ群机器人。
 
-本仓库是 [CoolQ C++ SDK](https://github.com/cqmoe/cqcppsdk) 的项目模板，提供了基本的目录结构、CMake 配置、持续集成配置、安装脚本等，使用方法请参考 [CoolQ C++ SDK 文档](https://cqcppsdk.cqp.moe/)。
+本体QQ：3181404699
+
+# 功能
+
+- 复读（相同内容只复读一次）
+
+~~更多功能持续添加中~~
+
+# 构建
+
+构建步骤参照[CoolQ C++ SDK 文档](https://cqcppsdk.cqp.moe/guide/getting-started.html)。

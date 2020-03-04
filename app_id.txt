@@ -1,1 +1,1 @@
-com.example.demo
+xyz.direcore.hephaestus
