@@ -3,8 +3,8 @@
     "ret": 1,
     "apiver": 9,
     "name": "小赫 Mark.II",
-    "version": "1.0.0",
-    "version_id": 1,
+    "version": "1.1.0",
+    "version_id": 2,
     "author": "dotdirewolf",
     "description": "一个多功能机器人",
     "event": [ // 可以修改 priority 来调整插件的优先级, 其它字段不可修改, 否则将无法使用
@@ -130,7 +130,7 @@
         // 30, // get_record
         101, // send_group_message
         //103, // send_discuss_message
-        //106, // send_private_message
+        106, // send_private_message
         // 110, // send_like
         // 120, // set_group_kick
         // 121, // set_group_ban
@@ -145,7 +145,7 @@
         //131, // get_stranger_info
         132, // get_group_info
         // 140, // set_discuss_leave
-        // 150, // set_friend_request
+        150, // set_friend_request
         // 151, // set_group_request
         //160, // get_group_member_list
         //161, // get_group_list
